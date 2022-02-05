@@ -24,3 +24,26 @@ h1 {
   	margin-bottom: 20px;
   	margin-top:  50px;
 }
+
+.navBar {
+	list-style: none;
+	cursor:  pointer;
+}
+
+.navItem {
+	font-size: 22px;
+	padding: 5px;
+	color: blue;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
